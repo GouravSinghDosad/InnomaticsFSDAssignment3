@@ -89,7 +89,7 @@ section{
     #head_bar, #header, section, #signup, #footer{
         flex-direction: column;
         width: 100%;
-        height: auto;
+        height: 200px;
     }
 
     section{
@@ -98,7 +98,7 @@ section{
 
     #div1, #div2, #div3{
         width: 100%;
-        height: auto;
+        height: 100px;
     }
 
 }
@@ -107,7 +107,7 @@ section{
    
     section, #header, #head_bar, #footer, #signup{
         width: 100%;
-        height: auto;
+        height: 100vh;
     }
 
     section{
@@ -117,7 +117,7 @@ section{
 
     #div1, #div2, #div3{
         width: 100%;
-        height: auto;
+        height: 33vh;
     }
 
 }
